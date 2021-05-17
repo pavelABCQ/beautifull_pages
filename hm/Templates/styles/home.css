@@ -17,6 +17,12 @@
 		.space {
 			text-indent: 550px;
 			line-height: 0.1em;
+		.space img {
+		content-align: left;
+
+
+		}
+
 		}
 		.redline {
 
